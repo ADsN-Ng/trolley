@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#ecfdf5"/>
+  <rect x="280" y="40" width="400" height="460" rx="28" fill="#fff" stroke="#a7f3d0" stroke-width="4"/>
+  <rect x="310" y="80" width="340" height="64" rx="16" fill="#059669"/>
+  <text x="480" y="120" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="700">Trolley</text>
+  <rect x="310" y="170" width="340" height="56" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
+  <rect x="310" y="240" width="340" height="72" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
+  <rect x="310" y="326" width="340" height="72" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="480" y="500" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="16">Screenshot placeholder</text>
+</svg>
